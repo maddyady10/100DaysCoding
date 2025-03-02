@@ -13,22 +13,5 @@ Competitive coding demands not only accuracy but also an understanding of **time
 I strive to refine solutions by reducing execution time from **O(n²) to O(n log n) or better**,  
 optimizing every step to handle large inputs seamlessly.
 
----
-
-## 🔗 Challenges & Breakthroughs
-
-### 🕷 Problem Solving
-- Analyzing problems, identifying patterns, and structuring efficient solutions.
-
-### 🔮 Algorithms & Data Structures
-- Implementing and optimizing key algorithms and data structures for better performance.
-
-### ⚔️ Code Optimization
-- Reducing redundancy and improving execution time through efficient coding practices.
-
-### ⚡ Time Complexity
-- Minimizing computational complexity using sorting, searching, and dynamic programming.
-
-
 
 💜 *In the silent void of the unknown, mastery is forged. The journey deepens...*
