@@ -1,6 +1,7 @@
 # 🚀 100 Days of Code - Java Edition 🚀
 
-![Banner]([https://via.placeholder.com/800x200?text=100+Days+of+Code+-+Java+Edition](https://github.com/maddyady10/100DaysCoding/blob/main/Banner.png?raw=true))
+![Banner](https://raw.githubusercontent.com/maddyady10/100DaysCoding/main/Banner.png)
+
 
 ## 🎯 Introduction
 🌟 **Embarking on an exciting journey!** Since **January 22, 2025**, I've been solving a new problem every day, aiming for **optimized and efficient solutions** in **Java**. This challenge is helping me strengthen my problem-solving skills and consistency in coding! So I decided to document it here 🔥
