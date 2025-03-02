@@ -17,17 +17,17 @@ optimizing every step to handle large inputs seamlessly.
 
 ## 🔗 Challenges & Breakthroughs
 
-### 🕷 Dissecting Complex Problems
-- Breaking down intricate problems into structured logic, ensuring clarity and efficiency.
+### 🕷 Problem Solving
+- Analyzing problems, identifying patterns, and structuring efficient solutions.
 
-### 🔮 Mastering Algorithms & Data Structures
-- Building a solid foundation in advanced algorithms and data structures to reinforce execution.
+### 🔮 Algorithms & Data Structures
+- Implementing and optimizing key algorithms and data structures for better performance.
 
-### ⚔️ Eliminating Inefficiencies
-- Optimizing solutions to ensure high performance and minimal computational overhead.
+### ⚔️ Code Optimization
+- Reducing redundancy and improving execution time through efficient coding practices.
 
-### ⚡ Time Complexity Optimization
-- Refining time complexity, leveraging sorting, searching, and dynamic programming techniques to achieve better performance.
+### ⚡ Time Complexity
+- Minimizing computational complexity using sorting, searching, and dynamic programming.
 
 
 
